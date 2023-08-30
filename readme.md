@@ -10,7 +10,7 @@ The project repository is organized as follows:
   - `tmdb_5000_credits.csv`: Dataset containing credits information
   - `tmdb_5000_movies.csv`: Dataset containing movie details
   - `movie.py`: Python script implementing the recommendation system
-  - `home.html`: Home page of the web interface (not connected due to Flask issues)
+  - `Website.html`: Home page of the web interface (not connected due to Flask issues)
   - `thank_you.html`: Thank you page of the web interface (not connected due to Flask issues)
 
 ## Getting Started
