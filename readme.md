@@ -36,7 +36,7 @@ The `movie.py` script uses data from `tmdb_5000_credits.csv` and `tmdb_5000_movi
 
 ## Additional Web Pages
 
-I have also created a home page (`home.html`) and a thank you page (`thank_you.html`) for this project. However, I encountered Flask-related issues while trying to connect these pages. I'm actively working to resolve this and will update the project as soon as the issues are resolved.
+I have also created a home page (`Website.html`) and a thank you page (`thank_you.html`) for this project. However, I encountered Flask-related issues while trying to connect these pages. I'm actively working to resolve this and will update the project as soon as the issues are resolved.
 
 ## Future Improvements
 
