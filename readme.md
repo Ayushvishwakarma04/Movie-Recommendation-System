@@ -7,7 +7,7 @@ Welcome to the Movie Recommendation System project! This project demonstrates my
 The project repository is organized as follows:
 
 - **Movie recommendation system/**
-  - `tmdb_5000_credits.csv`: Dataset containing credits information
+  - `tmdb_5000_credits.csv`: Dataset containing credit information
   - `tmdb_5000_movies.csv`: Dataset containing movie details
   - `movie.py`: Python script implementing the recommendation system
   - `Website.html`: Home page of the web interface (not connected due to Flask issues)
@@ -17,7 +17,7 @@ The project repository is organized as follows:
 
 Follow these steps to run the movie recommendation system:
 
-1. Clone this repository by running: `git clone https://github.com/your-username/Movie-recommendation-system.git`
+1. Clone this repository by running: `git clone https://github.com/Ayushvishwakarma04/Movie-recommendation-system.git`
 2. Navigate into the project directory: `cd Movie-recommendation-system`
 3. Make sure you have Python installed.
 4. Run the `movie.py` script using: `python movie.py`
